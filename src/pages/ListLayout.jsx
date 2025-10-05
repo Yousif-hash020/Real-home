@@ -589,7 +589,7 @@ const ListLayout = () => {
                   <div className="absolute inset-0 bg-[#1CB2FF] opacity-0 group-hover:opacity-20 transition-opacity duration-300 z-0"></div>
 
                   {/* View Property Button (hidden by default, visible on hover) */}
-                  <div className="lg:absolute lg:top-[100px] lg:left-[70px] lg:opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10 absolute top-[120px] left-36">
+                  <div className="lg:absolute lg:top-[100px] lg:left-[70px] lg:opacity-0 group-hover:opacity-100 transition-opacity duration-300 z-10 flex justify-center pt-26">
                     <Link
                       to={`/ListLayout/${prop.id}`}
                       className="transition-colors duration-300 border-2 border-white hover:border-[#1CB2FF] hover:bg-[#1CB2FF] hover:text-white text-white text-xs font-semibold px-5 py-3 rounded"
