@@ -442,7 +442,7 @@ const Home = () => {
         {/* footer */}
         <div className="w-full overflow-x-hidden bg-fixed bg-[#0054A5] bg-center flex justify-center py-15 lg:gap-20 gap-10  companydiv5 bg-cover px-1 ">
 
-          <footer className="relative text-white lg:pt-40 lg:pb-0 pb-100 md:pb-0 px-6">
+          <footer className="relative text-white lg:pt-40 lg:pb-0  md:pb-0 px-6">
             {/* top Line */}
             <div className="flex lg:justify-start gap-5 mb-10 justify-center items-center  pt-4 text-center text-sm text-white/60">
               <span>
