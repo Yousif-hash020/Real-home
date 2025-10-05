@@ -23,7 +23,7 @@ const Footer = () => {
   return (
     <div className="w-full overflow-x-hidden bg-fixed bg-[#0054A5] bg-center flex justify-center py-15 lg:gap-20 gap-10  ">
 
-      <footer className="relative text-white lg:pt-10 lg:pb-6  pb-100 px-6">
+      <footer className="relative text-white lg:pt-10 px-6">
         {/* top Line */}
         <div className="flex lg:justify-start gap-5 mb-10 justify-center items-center  pt-4 text-center text-sm text-white/60">
           <span>
